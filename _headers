@@ -1,4 +1,4 @@
 ## the path for which the header must be set:
 /*
 ## the actual header:
- Content-Security-Policy: script-src 'self';
+ #Content-Security-Policy: script-src 'self';
